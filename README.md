@@ -1,1 +1,1 @@
-shell navigation commands
+Task 0. Where am I?
